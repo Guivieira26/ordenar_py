@@ -14,6 +14,7 @@ Este repositório contém a implementação de algoritmos clássicos de ordenaç
 (Mais algoritmos podem ser adicionados futuramente, como Bubble Sort, Insertion Sort, etc.)
 
 ✅ Funcionalidades:
+
 Implementação do Merge Sort (Divisão e Conquista), com complexidade:
 
 Melhor, médio e pior caso: O(n log n)
