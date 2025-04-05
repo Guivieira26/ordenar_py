@@ -13,6 +13,21 @@ Este repositório contém a implementação de algoritmos clássicos de ordenaç
 
 (Mais algoritmos podem ser adicionados futuramente, como Bubble Sort, Insertion Sort, etc.)
 
+✅ Funcionalidades:
+Implementação do Merge Sort (Divisão e Conquista), com complexidade:
+
+Melhor, médio e pior caso: O(n log n)
+
+Recorrência: T(n) = 2T(n/2) + O(n)
+
+Implementação do Quick Sort (Particionamento recursivo), com complexidade:
+
+Melhor e médio caso: O(n log n)
+
+Pior caso: O(n²), quando o pivô está mal posicionado
+
+Recorrência média: T(n) = T(k) + T(n-k-1) + O(n)
+
 🎯 Objetivos do Projeto:
 Praticar a lógica de algoritmos de ordenação clássicos.
 
